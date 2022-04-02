@@ -3,8 +3,6 @@
 </p>
 
 
-
-
 <h1 align="center">Trabalho prático - Programação Orientada a Objetos</h1>
 
 <p align="center">Desenvolver um projeto utilizando os conceitos de Programação Orientada a Objetos </p>
